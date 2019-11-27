@@ -1,2 +1,8 @@
 node_modules/*
 dict/*
+vue_component_templates/node_modules/
+vue_inline_templates/node_modules/
+vue_x_template/.idea/
+vue_x_template/node_modules/
+vue_component_templates/.idea/
+vue_inline_templates/.idea/
